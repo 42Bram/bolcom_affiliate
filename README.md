@@ -11,7 +11,7 @@ Alle producten in de bol.com API worden nu automatisch op je website gepubliceer
 
 
 --------------------------------------------------------------
-# bolcom_affiliate_en
+## bolcom_affiliate_en
 > A free script to import bol.com products into a Woocommerce Affiliate website. It uses the bol.com open API (https://partnerblog.bol.com/documentatie/open-api/aan-de-slag-2/). The script auto-generates product links with your affiliate ID and publishes the products with description, image, price and affiliate link to your wordpress website. 
 
 
