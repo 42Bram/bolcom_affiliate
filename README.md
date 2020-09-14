@@ -1,5 +1,6 @@
 # bolcom_affiliate
 A free script to import bol.com products via their API into a Woocommerce Affiliate website. This saves a lot of time as you do not need to create affiliate links manually anymore. You simply define the categories you want to import and run the script. 
+--------------------------------------------------------------
 
 Step 1: create a new python project
 
